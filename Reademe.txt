@@ -1,0 +1,6 @@
+CLIENT LOGIN use the following command:
+telnet localhost 7000
+
+server.cpp is the main source
+query.h provides the function of querying
+local.h,utils.h provides macros definition and som function
